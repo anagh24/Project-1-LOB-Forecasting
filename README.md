@@ -107,8 +107,8 @@ Project-1-LOB-Forecasting/
 
 ## Author
 [Your Name]  
-[LinkedIn](your-linkedin-url) | [Email](your-email)
+[LinkedIn](linkedin.com/in/dasanagh) | [Email](ddas948@gmail.com)
 
 ---
 
-*This project was developed as part of a portfolio demonstrating machine learning applications in quantitative finance.*
+*I created this project to demonstrate machine learning applications in quantitative finance.*
