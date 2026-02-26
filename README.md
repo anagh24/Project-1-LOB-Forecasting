@@ -107,7 +107,7 @@ Project-1-LOB-Forecasting/
 
 ## Author
 [Your Name]  
-[LinkedIn](linkedin.com/in/dasanagh) | [Email](ddas948@gmail.com)
+[LinkedIn](https://linkedin.com/in/dasanagh) | [Email](mailto:ddas948@gmail.com)
 
 ---
 
